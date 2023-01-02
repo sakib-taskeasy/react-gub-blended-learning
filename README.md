@@ -1,4 +1,1 @@
 # react-gub-blended-learning
-
-
-
